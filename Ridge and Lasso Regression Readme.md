@@ -1,2 +1,3 @@
 Ridge Regression is used for to control Overfitting of Linear regression by adding lambda(slope)^2 parameter to residual error or MSE called L2 regression
+
 Lasso Regression is used for to control Overfitting it is also used in feature selection because it adds lambda|slope| here slope for multi linear regression model remaining slopes are neglected because of their small values it is also called L1 regression
